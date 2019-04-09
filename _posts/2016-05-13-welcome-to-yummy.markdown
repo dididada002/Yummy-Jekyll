@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 Welcome to use Yummy Jekyll as your jekyll theme!
+测试
 
 ## Yummy Jekyll
 
